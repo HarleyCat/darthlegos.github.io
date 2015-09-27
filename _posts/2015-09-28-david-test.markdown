@@ -1,0 +1,1 @@
+Just text without front matter
